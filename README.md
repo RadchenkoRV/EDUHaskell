@@ -82,3 +82,19 @@ https://habr.com/post/165559/
 
 https://habr.com/post/204086/
 
+Тест знаний Haskell
+http://www.quizful.net/test/haskell
+
+Мягкое введение в Haskell
+https://rsdn.org/article/haskell/haskell_part1.xml
+
+
+Брагилевский
+http://ermak.cs.nstu.ru/neurotech/html/metodmat/fp2015/Haskell_2.pdf
+
+http://starling.rinet.ru/~goga/tapl/tapl.pdf
+
+https://www.mccme.ru/dubna/2017/notes/bragilevsky-notes.pdf
+https://sfedu.ru/www/stat_pages22.show?p=EDU/umr/D&params=(p_startpage=%3E1,p_per_id=%3E2733)
+
+
