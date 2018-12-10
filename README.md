@@ -9,6 +9,8 @@ My Haskell education
 
 # Courses
 
+https://compscicenter.ru/courses/func-prog/2015-spring/classes/
+
 https://academy.mondaymorninghaskell.com/p/haskell-from-scratch
 
 https://www.ibm.com/developerworks/ru/library/l-haskell/index.html
