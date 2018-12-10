@@ -1,0 +1,2 @@
+# EDUHaskell
+My Haskell education
