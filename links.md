@@ -23,3 +23,5 @@ https://www.yesodweb.com/book
 
 http://rsdn.org/article/haskell/haskell_part1.xml
 
+http://rsdn.org/article/haskell/haskell_part2.xml
+
