@@ -19,3 +19,7 @@ https://www.schoolofhaskell.com/school/advanced-haskell/beautiful-concurrency
 https://www.yesodweb.com/book
 
 
+Мягкое введение в Haskell
+
+http://rsdn.org/article/haskell/haskell_part1.xml
+
