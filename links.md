@@ -11,3 +11,11 @@ State of the Haskell ecosystem
 [https://github.com/Gabriel439/post-rfc/blob/master/sotu.md]
 
 
+https://github.com/nponeccop/haskell-exercises
+
+
+https://www.schoolofhaskell.com/school/advanced-haskell/beautiful-concurrency
+
+https://www.yesodweb.com/book
+
+
