@@ -98,3 +98,23 @@ https://www.mccme.ru/dubna/2017/notes/bragilevsky-notes.pdf
 https://sfedu.ru/www/stat_pages22.show?p=EDU/umr/D&params=(p_startpage=%3E1,p_per_id=%3E2733)
 
 
+https://anton-k.github.io/ru-haskell-book/book/home.html
+
+
+https://www.ohaskell.guide/haskell-faq.html
+
+https://eax.me/why-haskell/
+
+
+https://www.youtube.com/watch?v=cTN1Qar4HSw
+
+https://www.youtube.com/watch?v=Ug9yJnOYR4U&t=1184s
+
+http://learnyouahaskell.com/introduction
+
+https://wiki.nsunc.com/haskell
+
+
+https://www.schoolofhaskell.com/
+
+
