@@ -7,6 +7,10 @@ My Haskell education
 [[Awesome Haskell ][https://github.com/krispo/awesome-haskell#awesome-haskell-]]
 [[Where X=Haskell][https://learnxinyminutes.com/docs/haskell/]]
 
+# Конспекты лекций «Haskell как первый язык программирования». Часть1
+
+https://habr.com/ru/post/204086/
+
 # Courses
 
 https://compscicenter.ru/courses/func-prog/2015-spring/classes/
