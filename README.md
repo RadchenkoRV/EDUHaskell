@@ -46,6 +46,10 @@ https://www.youtube.com/watch?v=Ea5g528AdjM&list=PLDrmKwRSNx7IXQyiEqozEmO-0NjGMl
 Haskell -- School of Expression  -- Абрамов С.А.
 https://www.youtube.com/watch?v=FrpbG2iPQxg&list=PLDrmKwRSNx7IMWzc6vNom4_1c5mXMnK1y
 
+haskell csc
+
+https://www.youtube.com/watch?v=I5UUkmy-I9I&list=PLwwk4BHih4fj2fxUuHEfvwNN84LALr5R3
+
 
 https://www.class-central.com/tag/haskell
 
